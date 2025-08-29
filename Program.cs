@@ -10,6 +10,8 @@ namespace PrograEjercicio1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Juego de aventura primer commit");
+            Console.ReadKey();
         }
     }
 }
